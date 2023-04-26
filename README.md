@@ -38,14 +38,7 @@ The project is to determine the basic knowledge one has in git,HTML5,CSS and Lin
 
 ### Key Features <a name="key-features"></a>
 
-- None
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-None
+- Linters setup
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
